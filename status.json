@@ -1,8 +1,8 @@
 {
   "code": "warning",
   "message": {
-    "fr": "Incidents affectant Dextension sur Xero."
-    "en": "Incidents with issues on Dextension for Xero.",
+    "fr": "Incidents affectant Dextension sur Xero.",
+    "en": "Incidents with issues on Dextension for Xero."
   },
   "explanation": {
     "fr": "Suite votre interface de rapprochement bancaire Xero a ete mise a jour par Xero, les fonctionnalites peuvent ne pas fonctionner",
