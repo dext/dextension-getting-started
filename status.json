@@ -1,13 +1,11 @@
 {
-  "status": {
-    "code": "warning",
-    "message": {
-      "fr": "Incidents affectant Dextension sur Xero."
-      "en": "Incidents with issues on Dextension for Xero.",
-    },
-    "explanation": {
-      "fr": "Suite votre interface de rapprochement bancaire Xero a ete mise a jour par Xero, les fonctionnalites peuvent ne pas fonctionner",
-      "en": "If your Xero account has been updated with the new features on the bank reconciliation page, some Dextension features will be affected"
-    }
+  "code": "warning",
+  "message": {
+    "fr": "Incidents affectant Dextension sur Xero."
+    "en": "Incidents with issues on Dextension for Xero.",
+  },
+  "explanation": {
+    "fr": "Suite votre interface de rapprochement bancaire Xero a ete mise a jour par Xero, les fonctionnalites peuvent ne pas fonctionner",
+    "en": "If your Xero account has been updated with the new features on the bank reconciliation page, some Dextension features will be affected"
   }
 }
