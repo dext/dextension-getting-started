@@ -1,7 +1,7 @@
 {
-  "code": "warning",
+  "code": "success",
   "message": {
-    "fr": "Nous sommes en train d'améliorer le nouvel espace de rapprochement sur Xero. Pendant ce changement, certaines fonctionnalités de Dextension seront indisponibles",
-    "en": "We are currently enhancing the new Xero Bank Reconciliation space. During this update, some features in Dextension may be temporarily unavailable."
+    "fr": "Toutes les fonctionnalités sont opérationnelles",
+    "en": "All features operational."
   }
 }
