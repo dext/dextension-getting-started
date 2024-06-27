@@ -1,7 +1,7 @@
 {
-  "code": "warning",
+  "code": "success",
   "message": {
-    "fr": "Dextension n'est pas opérationnel sur QBO en raison des modifications apportées à QBO. Nous travaillons activement à mettre en œuvre les modifications nécessaires.",
-    "en": "Dextension isn't operational on QBO due to QBO changes. We are working actively to implement the necessary modifications."
+    "fr": "Toutes les fonctionnalités sont opérationnelles.",
+    "en": "All features operational."
   }
 }
