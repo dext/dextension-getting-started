@@ -1,7 +1,7 @@
 {
-  "code": "success",
+  "code": "warning",
   "message": {
-    "fr": "Toutes les fonctionnalités sont opérationnelles.",
-    "en": "All features operational."
+    "fr": "Nous rencontrons actuellement des problèmes avec QBO en raison de récentes modifications dans leur balisage HTML. Notre équipe travaille activement à la résolution de ce problème.",
+    "en": "We're experiencing issues with QBO due to recent changes in their HTML markup. Our team is actively working to resolve this issue. We apologize for any inconvenience this may cause to your workflow."
   }
 }
