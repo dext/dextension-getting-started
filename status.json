@@ -1,7 +1,7 @@
 {
-  "code": "success",
+  "code": "warning",
   "message": {
-    "fr": "Toutes les fonctionnalités sont opérationnelles.",
-    "en": "All features operational."
+    "fr": "Nous investiguons des difficultes sur QBO.",
+    "en": "We are investigating issues on QBO."
   }
 }
