@@ -1,7 +1,7 @@
 {
-  "code": "warning",
-  "message": {
-    "fr": "Nous investiguons des difficultes sur QBO.",
-    "en": "We are investigating issues on QBO."
+  "code": "success",
+  "message": {Add commentMore actions
+    "fr": "Toutes les fonctionnalités sont opérationnelles.",
+    "en": "All features operational."
   }
 }
